@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: coral;
+    background-image: linear-gradient(#a9cce3 ,coral);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120vh;
+    margin: 10;
+}
+
+.login-container {
+    background-color:transparent;
+	font-weight: bold;
+	color:s;
+    padding: 50px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(1, 1, 1, 1);
+	
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color:#c0392b;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color:#d98880;
+    color: black;
+}
+Input Two numbers{
+    background-color:#0000;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+home {
+    font-family: Arial, sans-serif;
+    background-image: url('background.jpg'); 
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120vh;
+    margin: 10;
+}
+
+.color {
+ background-color:transparent;
+ color: black;
+}
+
+p {
+    font-size: larger;
+}
+
+.bg{
+    background-image: url("bg.jpeg");
+}
